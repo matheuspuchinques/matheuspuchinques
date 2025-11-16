@@ -5,7 +5,7 @@
 
 ## Hi! I'm Matheus Feria Puchinques👋
 <p>
-🎓 I’m currently studying Systems Development at Fatec Americana.
+🎓 I’m currently studying Systems Development at Fatec.
 
 💼 I am looking for my first job opportunity. My dream is to one day work as a data engineer.
 </p>
