@@ -34,7 +34,7 @@
 
 
 <!-- GithubStats -->
-![matheuspuchinques GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspuchinques&show_icons=true&theme=gotham)
+<!--![matheuspuchinques GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspuchinques&show_icons=true&theme=gotham)-->
 
 <!-- Portfolio 
 ## Portfolio:
