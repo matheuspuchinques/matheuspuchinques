@@ -28,7 +28,7 @@
 
   - I am 17 years old, currently living in Brazil. I have fluency in English and have been studing Python, HTML5, CSS3, Dart and Flutter.
 
-  - I enjoy playing games! I believe that our personal interests contribute a lot to how we interpret of things and problem-solving.
+  - I enjoy playing games! I believe that our personal interests contribute a lot to problem-solving and to how we interpret the world.
 </details>
 
 
